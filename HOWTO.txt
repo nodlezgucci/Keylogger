@@ -1,0 +1,23 @@
+--------------------------------------------------------------
+|                     INSTALLING pynput                      |
+|                                                            |
+| Windows:                                                   |
+|  In a command prompt type: python3 -m pip install pynput   |
+|                                                            |
+| Linux:                                                     |
+|  In a terminal type: sudo apt-get update                   |
+|     		      and then                               |
+|                     sudo apt-get -y install python3-pynput |
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+|                    RUNNING STEALTH MODE                    |
+|                                                            |
+| Windows:                                                   |
+|  Rename the file extension from .py to .pyw and            |
+|  run the program by double clicking it.                    |
+|                                                            |
+| Linux:                                                     |
+|  Start the program in a terminal by typing:                |
+|  nohup python3 main.py &                                   |
+--------------------------------------------------------------
